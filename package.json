@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.4",
     "tslib": "~1.10.0"
   },
